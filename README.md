@@ -1,6 +1,6 @@
 # Python Learning
 
-A structured journey to learn Python ffrom fundamentals to advanced concepts through theory, exercises ,challenges, projects, and pratical software developmment.
+A structured journey to learn Python from fundamentals to advanced concepts through theory, exercises ,challenges, projects, and pratical software developmment.
 
 ## Goals
 - Build strong Python fundamentals
